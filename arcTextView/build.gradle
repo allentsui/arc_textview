@@ -42,8 +42,8 @@ afterEvaluate {
         publications {
             release(MavenPublication) {
                 from components.release
-                groupId = 'com.github.gq97a6'
-                artifactId = 'arc_textview'
+                groupId = 'com.github.allentsui'
+                artifactId = 'ArcTextView'
                 version = '1.0.0'
             }
         }
